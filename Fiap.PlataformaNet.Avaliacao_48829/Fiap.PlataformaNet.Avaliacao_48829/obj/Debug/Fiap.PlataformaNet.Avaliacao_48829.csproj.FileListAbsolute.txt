@@ -1,0 +1,13 @@
+C:\Users\logonrm\Desktop\Ex5\Fiap.PlataformaNet.Avaliacao_48829\Fiap.PlataformaNet.Avaliacao_48829\bin\Debug\Fiap.PlataformaNet.Avaliacao_48829.exe.config
+C:\Users\logonrm\Desktop\Ex5\Fiap.PlataformaNet.Avaliacao_48829\Fiap.PlataformaNet.Avaliacao_48829\bin\Debug\Fiap.PlataformaNet.Avaliacao_48829.exe
+C:\Users\logonrm\Desktop\Ex5\Fiap.PlataformaNet.Avaliacao_48829\Fiap.PlataformaNet.Avaliacao_48829\bin\Debug\Fiap.PlataformaNet.Avaliacao_48829.pdb
+C:\Users\logonrm\Desktop\Ex5\Fiap.PlataformaNet.Avaliacao_48829\Fiap.PlataformaNet.Avaliacao_48829\obj\Debug\Fiap.PlataformaNet.Avaliacao_48829.FrmClinica.resources
+C:\Users\logonrm\Desktop\Ex5\Fiap.PlataformaNet.Avaliacao_48829\Fiap.PlataformaNet.Avaliacao_48829\obj\Debug\Fiap.PlataformaNet.Avaliacao_48829.Properties.Resources.resources
+C:\Users\logonrm\Desktop\Ex5\Fiap.PlataformaNet.Avaliacao_48829\Fiap.PlataformaNet.Avaliacao_48829\obj\Debug\Fiap.PlataformaNet.Avaliacao_48829.csproj.GenerateResource.Cache
+C:\Users\logonrm\Desktop\Ex5\Fiap.PlataformaNet.Avaliacao_48829\Fiap.PlataformaNet.Avaliacao_48829\obj\Debug\Fiap.PlataformaNet.Avaliacao_48829.csproj.CoreCompileInputs.cache
+C:\Users\logonrm\Desktop\Ex5\Fiap.PlataformaNet.Avaliacao_48829\Fiap.PlataformaNet.Avaliacao_48829\obj\Debug\Fiap.PlataformaNet.Avaliacao_48829.exe
+C:\Users\logonrm\Desktop\Ex5\Fiap.PlataformaNet.Avaliacao_48829\Fiap.PlataformaNet.Avaliacao_48829\obj\Debug\Fiap.PlataformaNet.Avaliacao_48829.pdb
+C:\Users\logonrm\Desktop\Ex5\Fiap.PlataformaNet.Avaliacao_48829\Fiap.PlataformaNet.Avaliacao_48829\bin\Debug\DBCLINICA.mdf
+C:\Users\logonrm\Desktop\Ex5\Fiap.PlataformaNet.Avaliacao_48829\Fiap.PlataformaNet.Avaliacao_48829\bin\Debug\DBCLINICA_log.ldf
+C:\Users\logonrm\Desktop\Ex5\Fiap.PlataformaNet.Avaliacao_48829\Fiap.PlataformaNet.Avaliacao_48829\bin\Debug\Dapper.dll
+C:\Users\logonrm\Desktop\Ex5\Fiap.PlataformaNet.Avaliacao_48829\Fiap.PlataformaNet.Avaliacao_48829\bin\Debug\Dapper.xml
